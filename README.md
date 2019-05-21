@@ -8,7 +8,6 @@
         re
         Pandas
         BioPython
-        psutil
         argparse
         
 ### Usage

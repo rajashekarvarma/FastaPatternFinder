@@ -16,4 +16,4 @@
 #### python FastaPatternFinder.py -i <input_filename> -o <output_filename>
 Defining output file is an option if the output file name is not provided the output will be written to output.csv in the working directory.
 
-#### python FastaPatternFinder.py -help # for help
+#### python FastaPatternFinder.py -h           ### for help

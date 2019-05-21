@@ -1,6 +1,6 @@
 # FastaPatternFinder
 
-## Scan and find tri peptide patterns (PXX/PXP/XXP) from Fasta protein sequences. FastPatternFinder is written in python3 and requires python3 to run.
+## Scan and find tri peptide patterns (PXX/PXP/XXP) from Fasta protein sequences. FastaPatternFinder is written in python3 and requires python3 to run.
 
 ### prerequisites
 

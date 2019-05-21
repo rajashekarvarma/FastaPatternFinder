@@ -4,7 +4,7 @@
 
 ### prerequisites
 
-     Modules required
+     Python modules required
         re
         Pandas
         BioPython
